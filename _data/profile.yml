@@ -25,9 +25,9 @@ short_bio: >-
     Hello, My name is Hyun-Young Moon, 4th year student at The Catholic University of Korea. 
   </p>
   <p>
-      My research interests are in AI systems that understand the underlying meaning and contextual nuances 
-    embedded in human language and content. In particular, I focus on integrating multimodal reasoning and 
-    adaptive modeling to interpret intent, cultural codes, and implicit context beyond surface-level information.
+      My research interest focuses on AI agents, conversational AI, and VLMs. 
+      Ultimately, I aim to mitigate inefficiencies and help people through AI systems. 
+      Recently, I've been interested in AI systems that better capture contextual nuances embedded in human language and content.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpeg
@@ -60,7 +60,7 @@ awards:
   date: 2025-1
 - name: Academic Excellence Scholarship (Highest Honors)
   date: 2024-2
-- name: Market Data Analytics Competition | Kurly Inc. & The Catholic University of Korea
-  date: 2024
 - name: AI/OR Business Challenge | The Korean Operations Research and Management Science Society
+  date: 2024
+- name: Market Data Analytics Competition | Kurly Inc. & The Catholic University of Korea
   date: 2023
